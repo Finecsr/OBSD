@@ -12,12 +12,6 @@
 </h5>
 
 
-## News 
-* ```2024.8.14 ``` 🚀 OBSD has been selected as the ACL 2024 Best Paper.
-* ```2024.7.15 ``` 🚀 OBSD has been selected as the ACL 2024 Oral.
-* ```2024.5.16 ``` 🚀 OBSD is accepted by ACL 2024 Main. 
-* ```2024.2.15 ``` 🚀 Sourced code for OBSD is released.
-
 ## Oracle Bone Script Decipher.
 
 ### Welcome to OBSD. [Paper](https://arxiv.org/abs/2406.00684) has been published, and we show the [Demo](http://vlrlab-monkey.xyz:7680/OBSD).<br /> The dataset is available [here](https://github.com/RomanticGodVAN/character-Evolution-Dataset).<br /> 
