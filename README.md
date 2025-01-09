@@ -3,6 +3,8 @@
 ### Welcome to OBSD. [Paper](https://arxiv.org/abs/2406.00684) has been published, and we show the [Demo](http://vlrlab-monkey.xyz:7680/OBSD).<br /> The dataset is available [here](https://github.com/RomanticGodVAN/character-Evolution-Dataset).<br /> 
 In [data/modern_kanji.zip](./data/modern_kanji.zip), we also provide images of modern Chinese characters corresponding to Oracle Bone Script, and you can run the [data/process.py](./data/process.py) to process the data if you wish to use your own data.
 
+my dataset:  (https://pan.baidu.com/s/1Yi-FmMhSFUmoFf_8WQqGqg?pwd=1234) 提取码：1234
+
 
 ## Data preparation
 
